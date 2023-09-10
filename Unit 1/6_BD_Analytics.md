@@ -33,21 +33,29 @@
 
 ## Classification of Analytics
 
-### Descriptive Analytics
-- **Understanding Descriptive Analytics**:
-  - Summarizes historical data for insights.
-  - Answers "What happened?" with clear data presentation.
+## 1. Descriptive Analytics
 
-- **Examples of Descriptive Analytics**:
-  - Sales reports, website traffic trends.
+- Focus: Understanding past data and events.
+- Purpose: Summarizing historical data to gain insights.
+- Examples: Dashboards, reports, key performance indicators (KPIs).
 
-### Diagnostic Analytics
-- **Exploring Diagnostic Analytics**:
-  - Determines "why" behind events.
-  - Uncovers root causes.
+## 2. Diagnostic Analytics
 
-- **Applications of Diagnostic Analytics**:
-  - Investigating sales drops, identifying website performance issues.
+- Focus: Identifying reasons for past outcomes.
+- Purpose: Determining the causes of specific events or trends.
+- Examples: Root cause analysis, data mining, ad-hoc queries.
+
+## 3. Predictive Analytics
+
+- Focus: Forecasting future outcomes.
+- Purpose: Predicting what might happen based on historical data.
+- Examples: Machine learning models, time series forecasting.
+
+## 4. Prescriptive Analytics
+
+- Focus: Providing recommendations for action.
+- Purpose: Suggesting the best course of action to achieve a desired outcome.
+- Examples: Decision support systems, optimization algorithms.
 
 ## Data Analytics Life Cycle
 
@@ -61,6 +69,8 @@
   - **Data Preparation**: Cleaning, transforming data.
   - **Data Analysis**: Applying techniques.
   - **Data Visualization and Reporting**: Presenting findings.
+
+#### More datails:
 
 ### Importance of Data Analytics Life Cycle
 - **Why the Life Cycle Matters**:
