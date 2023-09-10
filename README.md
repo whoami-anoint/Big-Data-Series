@@ -1,8 +1,13 @@
-# Big-Data
-### This repo is for Big Data notes
+# Big Data Series
+[![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/discussions)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/pulls)
+
+Welcome to the Big Data Series! 🚀 If you're on a DevOps learning journey, you're in the right place.
 # Contents
 ## Unit-1:
-- [Introduction to Big Data](/Unit%201/1_intro_BD.md)
-- [Evolution of Big Data](/Unit%201/2_Evolution.md)
-- [Data Warehouse Environment](/Unit%201/3_wirehouse.md)
-- [Scalability and Parallel Processing](/Unit%201/4_Scalability_and_Parallel_Processing.md)
+1. [Introduction to Big Data](/Unit%201/1_intro_BD.md)
+2. [Evolution of Big Data](/Unit%201/2_Evolution.md)
+3. [Data Warehouse Environment](/Unit%201/3_wirehouse.md)
+4. [Scalability and Parallel Processing](/Unit%201/4_Scalability_and_Parallel_Processing.md)
+5. [Designing Data Architecture](/Unit%201/5_DA.md)
+6. [Data Storage and Analysis](/Unit%201/6_BD_Analytics.md)
