@@ -2,7 +2,7 @@
 [![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/discussions)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/pulls)
 
-Welcome to the Big Data Series! 🚀 If you're on a DevOps learning journey, you're in the right place.
+Welcome to the Big Data Series! 🚀 If you're on a Big Data learning journey, you're in the right place.
 # Contents
 ## Unit-1:
 1. [Introduction to Big Data](/Unit%201/1_intro_BD.md)
