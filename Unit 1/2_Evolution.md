@@ -54,5 +54,3 @@ This table provides a concise visual comparison of the key differences between T
 - **Edge Computing:** Processing data closer to its source for real-time decision-making.
 - **Blockchain for Data Security:** Ensuring data integrity and trust.
 - **Responsible Data Use:** Ethical considerations around data collection and utilization.
-
-These notes provide an overview of the evolution of Big Data, including historical context, technological advancements, use cases, challenges, and future trends.
