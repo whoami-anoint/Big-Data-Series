@@ -1,5 +1,9 @@
-# Big-Data
-### This repo is for Big Data notes
+# Big Data Series
+[![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/Big-Data)](https://github.com/whoami-anoint/Big-Data/discussions)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/Big-Data)](https://github.com/whoami-anoint/Big-Data/pulls)
+
+Welcome to the Big-Data Series! 🚀 If you're on a Big Data learning journey, you're in the right place.
+
 # Contents
 ## Unit-1:
 - [Introduction to Big Data](/Unit%201/1_intro_BD.md)
