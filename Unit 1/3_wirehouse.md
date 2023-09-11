@@ -1,5 +1,8 @@
-# Chapter 3: Data Warehouse Environment
-
+# Unit 3:
+## Chapter 3 : Data Warehouse Environment
+[![Share on Twitter](https://img.shields.io/badge/-Share%20on%20Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2Fwhoami-anoint%2FBig-Data-Series)
+[![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/discussions)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/pulls)
 ## Introduction to Data Warehouses
 
 - **Definition:** A data warehouse is a centralized repository that stores integrated and historical data from various sources.
