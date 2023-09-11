@@ -59,7 +59,7 @@ This repository is a collection of notes and resources to assist you on your Big
 
 🛠️ **Contribute**: Found a typo or want to add more content? Open a [pull requests](https://github.com/whoami-anoint/Big-Data-Series/pulls)! We appreciate your contributions.
 
-Discover, Analyze, Transform! 🌟🔍🚀 
+Discover, Analyze, Transform! 🌟🔍🚀 \
 Let's learn and grow together! 🌐
 #### #Happy Learning 🤎
 
