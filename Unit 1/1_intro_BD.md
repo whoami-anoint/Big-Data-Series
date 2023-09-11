@@ -1,5 +1,9 @@
 # Unit 1: 
 ## Chapter 1 : Introduction to Big Data
+[![Share on Twitter](https://img.shields.io/badge/-Share%20on%20Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2Fwhoami-anoint%2FBig-Data-Series)
+[![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/discussions)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/pulls)
+
 **1. What is Data?**
    - Data is raw and unprocessed information.
    - It can take various forms, such as numbers, text, images, audio, or video.
