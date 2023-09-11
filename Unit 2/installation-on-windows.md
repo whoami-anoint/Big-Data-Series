@@ -77,3 +77,5 @@ Installing Apache Hadoop on Windows can be a bit more challenging compared to ot
 Now that Hadoop is installed and running, you can submit MapReduce or other Hadoop jobs using the `hadoop` command.
 
 Remember that running Hadoop on Windows may have limitations and performance differences compared to running it on Unix-like systems. Consider using a virtual machine or Windows Subsystem for Linux (WSL) for a more seamless experience if you encounter issues.
+
+[Back to Overview](/Unit%202/1.1_Hadoop_installation.md)
