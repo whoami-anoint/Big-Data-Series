@@ -4,24 +4,24 @@
 [![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/discussions)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/pulls)
 
-**1. What is Data?**
+## **1. What is Data?**
    - Data is raw and unprocessed information.
    - It can take various forms, such as numbers, text, images, audio, or video.
    - Data can be categorized as structured (organized in a predefined format) or unstructured (lacks a fixed structure).
 
-**2. What is Big Data?**
+## **2. What is Big Data?**
    - Big Data refers to extremely large and complex datasets.
    - It encompasses data that exceeds the processing capabilities of traditional tools and methods.
    - Big Data often includes a mix of structured, semi-structured, and unstructured data sources.
 
-**3. Examples of Big Data:**
+## **3. Examples of Big Data:**
    - Social media interactions: Millions of users generating posts, likes, and comments.
    - IoT sensor data: Devices collecting data from various sources like weather stations or smart appliances.
    - E-commerce transactions: Large volumes of online purchases and customer interactions.
    - Scientific research: Data from experiments, simulations, and observations, such as genomics or climate data.
    - Multimedia content: Video streaming services, surveillance cameras, and multimedia archives.
 
-**4. Types of Big Data and Key Points:**
+## **4. Types of Big Data and Key Points:**
 
    a. **Structured Data**:
    - Data organized in well-defined formats like tables with rows and columns.
@@ -40,7 +40,7 @@
    - Offers flexibility similar to unstructured data.
    - Examples: JSON and XML files, NoSQL databases like MongoDB.
 
-**5. Characteristics of Big Data (5) with Examples:**
+## **5. Characteristics of Big Data with Examples:**
 
    a. **Volume**:
    - Refers to the sheer amount of data generated.
