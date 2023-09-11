@@ -6,7 +6,7 @@
 
 Welcome to the Big Data Series! 🚀 If you're on a Big Data learning journey, you're in the right place.
 # Contents
-## Unit 1:
+## Unit 1: Introduction to Big Data
  #### Chapters
 1. [Introduction to Big Data](/Unit%201/1_intro_BD.md)
 2. [Evolution of Big Data](/Unit%201/2_Evolution.md)
@@ -14,3 +14,7 @@ Welcome to the Big Data Series! 🚀 If you're on a Big Data learning journey, y
 4. [Scalability and Parallel Processing](/Unit%201/4_Scalability_and_Parallel_Processing.md)
 5. [Designing Data Architecture](/Unit%201/5_DA.md)
 6. [Data Storage and Analysis](/Unit%201/6_BD_Analytics.md)
+
+## Unit 2: Introduction to Hadoop 
+#### Chapters
+1. [Introduction to Hadoop](/Unit%202/1_intro_hadoop.md)
