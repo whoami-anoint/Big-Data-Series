@@ -1,4 +1,21 @@
-# Big Data Series
+<pre>
+
+
+
+ /$$$$$$$ /$$                /$$$$$$$            /$$                     /$$$$$$                   /$$                  
+| $$__  $|__/               | $$__  $$          | $$                    /$$__  $$                 |__/                  
+| $$  \ $$/$$ /$$$$$$       | $$  \ $$ /$$$$$$ /$$$$$$   /$$$$$$       | $$  \__/ /$$$$$$  /$$$$$$ /$$ /$$$$$$  /$$$$$$$
+| $$$$$$$| $$/$$__  $$      | $$  | $$|____  $|_  $$_/  |____  $$      |  $$$$$$ /$$__  $$/$$__  $| $$/$$__  $$/$$_____/
+| $$__  $| $| $$  \ $$      | $$  | $$ /$$$$$$$ | $$     /$$$$$$$       \____  $| $$$$$$$| $$  \__| $| $$$$$$$|  $$$$$$ 
+| $$  \ $| $| $$  | $$      | $$  | $$/$$__  $$ | $$ /$$/$$__  $$       /$$  \ $| $$_____| $$     | $| $$_____/\____  $$
+| $$$$$$$| $|  $$$$$$$      | $$$$$$$|  $$$$$$$ |  $$$$|  $$$$$$$      |  $$$$$$|  $$$$$$| $$     | $|  $$$$$$$/$$$$$$$/
+|_______/|__/\____  $$      |_______/ \_______/  \___/  \_______/       \______/ \_______|__/     |__/\_______|_______/ 
+             /$$  \ $$                                                                                                  
+            |  $$$$$$/                                                                                                  
+             \______/                                                                                                   
+                                                                                                    
+
+</pre>
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Share on Twitter](https://img.shields.io/badge/-Share%20on%20Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2Fwhoami-anoint%2FBig-Data-Series)
 [![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/DevOps)](https://github.com/whoami-anoint/Big-Data-Series/discussions)
@@ -6,7 +23,7 @@
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-blue.svg)](CODE_OF_CONDUCT.md)
 
 
-Welcome to the Big Data Series! 🚀 If you're on a Big Data learning journey, you're in the right place.
+Welcome to the **Big Data Series!** 🚀 If you're on a Big Data learning journey, you're in the right place.
 # Contents
 ## Unit 1: Introduction to Big Data
  ### Chapters :
