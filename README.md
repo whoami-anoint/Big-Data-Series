@@ -45,3 +45,19 @@ Welcome to the **Big Data Series!** 🚀 If you're on a Big Data learning journe
 ### Chapters :
 1. [Introduction to Hadoop](/Unit%202/1_intro_hadoop.md)
 2. [Analytical Theory and Methods](/Unit%202/2_Analytical_Theory_and_Methods.md)
+
+## About This Repository
+
+This repository is a collection of notes and resources to assist you on your Big Data Learning journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/BIg-Data-Series/pulls).
+
+## Get Involved
+
+📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/Big-Data-Series/discussions) section.
+
+🛠️ **Contribute**: Found a typo or want to add more content? Open a [pull requests](https://github.com/whoami-anoint/Big-Data-Series/pulls)! We appreciate your contributions.
+
+Discover, Analyze, Transform! 🌟🔍🚀 
+Let's learn and grow together! 🌐
+#### #Happy Learning 🤎
+
+
