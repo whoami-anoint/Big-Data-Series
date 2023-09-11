@@ -45,6 +45,8 @@ Welcome to the **Big Data Series!** 🚀 If you're on a Big Data learning journe
 ### Chapters :
 1. [Introduction to Hadoop](/Unit%202/1_intro_hadoop.md)
    - [Hadoop Installation Overview](/Unit%202/1.1_Hadoop_installation.md)
+      - My personal installation automation tool:
+         - [EasyHadoop](https://github.com/whoami-anoint/EasyHadoop) -Simplified Hadoop Setup and Configuration Automation 
 2. [Analytical Theory and Methods](/Unit%202/2_Analytical_Theory_and_Methods.md)
 
 ## About This Repository
