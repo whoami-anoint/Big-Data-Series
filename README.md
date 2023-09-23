@@ -50,7 +50,8 @@ Welcome to the **Big Data Series!** 🚀 If you're on a Big Data learning journe
 2. [Analytical Theory and Methods](/Unit%202/2_Analytical_Theory_and_Methods.md)
 
 
-### Unit 3
+## Unit 3 : NoSQL Big Data Management, MongoDB and Cassandra
+
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your Big Data Learning journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/BIg-Data-Series/pulls).
