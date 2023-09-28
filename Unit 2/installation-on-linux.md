@@ -65,7 +65,7 @@ Follow these steps to install Hadoop:
    - Format the Hadoop Distributed File System (HDFS) by running the following command:
 
      ```bash
-     hdfs namenode -format
+     hadoop namenode -format
      ```
 
 5. **Start Hadoop Services:**
