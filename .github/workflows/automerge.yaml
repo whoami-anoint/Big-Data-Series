@@ -29,6 +29,7 @@ jobs:
           squash-commit-message: '\n'
           do-not-merge-labels: automerge-skip,do not merge
           required-labels: merge
+          base-branch: dev  # Specify the base branch where the pull request should be merged
           pull-request: ${{ github.event.inputs.pull-request }}
           pull-request-author-associations: MEMBER,OWNER
           review: ${{ github.event.inputs.review }}
