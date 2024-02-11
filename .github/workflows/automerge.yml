@@ -1,0 +1,18 @@
+name: Automerger
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, labeled]
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Merge pull request
+        uses: pascalgn/automerge-action@v0.11.1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
