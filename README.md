@@ -54,7 +54,7 @@ Welcome to the **Big Data Series!** 🚀 If you're on a Big Data learning journe
 
 ## About This Repository
 
-This repository is a collection of notes and resources to assist you on your Big Data Learning journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/BIg-Data-Series/pulls).
+This repository is a collection of notes and resources to assist you on your Big Data Learning journey. Feel free to explore the chapters ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/BIg-Data-Series/pulls).
 
 ## Get Involved
 
