@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Check out repository content
+        run: git clone https://github.com/whoami-anoint/Big-Data-Series.git .
 
       # Other steps
 
