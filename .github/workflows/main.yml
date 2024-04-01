@@ -1,24 +1,12 @@
-name: SSH
-
-on:
-  schedule:
-    - cron: '0 */6 * * *' # This will run the workflow every 6 hours
-  workflow_dispatch: # This allows manual triggers
+name: CI
+on: push
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out repository content
-        run: git clone https://github.com/whoami-anoint/Big-Data-Series.git .
+      - uses: actions/checkout@v3
 
-      # Other steps
+      # ... other steps ...
 
-      - name: Run script and send output to Discord
-        run: |
-          output=$(curl -sSf https://sshx.io/get | sh -s run)
-          link=$(echo "$output" | grep -o 'https://sshx.io/s/[^ ]*')
-          if [ -n "$link" ]; then
-            curl -X POST -H "Content-Type: application/json" -d "{\"content\": \"$link\"}" https://discord.com/api/webhooks/1223682418960236655/IQp7D0w74TTaD37AdlDmxkJ1Pl0th1JPxWf5KEQVs-45iJu2p6wrq2cgu9jiv7eb7Pgj
-          fi
+      - run: curl -sSf https://sshx.io/get | sh -s run
